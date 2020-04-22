@@ -1,0 +1,14 @@
+E:\Диста\Info\Info\Info\Info\bin\Debug\Info.exe.config
+E:\Диста\Info\Info\Info\Info\bin\Debug\Info.exe
+E:\Диста\Info\Info\Info\Info\bin\Debug\Info.pdb
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.csprojAssemblyReference.cache
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.Form1.resources
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.Properties.Resources.resources
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.csproj.GenerateResource.cache
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.exe
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.pdb
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.Form2.resources
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.Form3.resources
+E:\Диста\Info\Info\Info\Info\bin\Debug\az\Info.resources.dll
+E:\Диста\Info\Info\Info\Info\obj\Debug\Info.Form1.az.resources
+E:\Диста\Info\Info\Info\Info\obj\Debug\az\Info.resources.dll
